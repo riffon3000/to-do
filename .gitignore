@@ -1,3 +1,7 @@
 # Node Stuff
 node_modules
+<<<<<<< HEAD
 config.json
+=======
+./config/config.json
+>>>>>>> adfe35c6ae32eb90c60f14619e7e4c8a72d8a9d3
